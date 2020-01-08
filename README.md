@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/az400cesartest/Space%20Game_Functional%20tests/_apis/build/status/jravenger4.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/az400cesartest/Space%20Game_Functional%20tests/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
